@@ -2,10 +2,10 @@
 
 <img align="right" width="400" height="215" src="https://github.com/androda/eMate-Expansion/blob/main/Images/ModuleFront.PNG?raw=true">
 
-#Overview
+# Overview
 This Newton eMate 300 Memory Expansion Module increases System RAM from 900k to 3900k, and Internal Storage from about 1600k to about 3600k.  See the Images folder, 'emate without expansion' and 'emate with expansion' images.  Your exact System Memory and Internal Storage amounts will differ slightly based on current usage, installed applications, etc.
 
-#! Important Note !
+# ! Important Note !
 On initial powerup after installation, your eMate will *fully erase all internal storage* !  I don't know why, but on initial installation of the module your eMate will automatically perform a full hard reset including loss of all installed programs and data.  After this, your eMate will behave as normal (but you have to reinstall everything).  The erase and reset takes a few minutes.
 It's likely that removing the module after installation and reset will perform the same operation, erasing all storage to return to factory state.
 
