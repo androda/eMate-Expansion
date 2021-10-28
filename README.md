@@ -19,7 +19,7 @@ The schematics are available to download in [PNG Format](https://github.com/andr
 # Bill of Materials
  * 2x `MT4LC4M16R6-5S` (or lower latency versions of these chips).  -S suffix is required!
  * 1x `E28F016SV` (larger storage densities may be supported but have not been tested)
- * 4x Ceramic Capacitor (0603 footprint) : Note that the value of these capacitors is not extremely important.  Prototypes were assembled with 4.7uF capacitors, and it is likely that values of between 100nF and 10uF will work properly.
+ * 5x Ceramic Capacitor (0603 footprint) : Note that the value of these capacitors is not extremely important.  Prototypes were assembled with 4.7uF capacitors, and it is likely that values of between 100nF and 10uF will work properly.
 
 # Notes
 * This module has been tested to boot in an eMate and shows the increased RAM and Storage amounts.  Not much additional testing has been done - would be good to install a bunch of software to use some space on the flash and be sure that it's working.
