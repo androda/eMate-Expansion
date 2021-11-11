@@ -5,6 +5,9 @@
 # Overview
 This Newton eMate 300 Memory Expansion Module increases System RAM from 900k to 3900k, and Internal Storage from about 1600k to about 3600k.  See the Images folder, 'emate without expansion' and 'emate with expansion' images.  Your exact System Memory and Internal Storage amounts will differ slightly based on current usage, installed applications, etc.
 
+# Caveats
+I've done a run of these boards, and for whatever reason the flash chips don't seem to be happy.  System RAM is visible on one that I assembled, but the flash has not worked in this batch.  Could be high failure rate on the old Intel flash chips, or the design may be right on the edge of timing limitations.  A previous prototype run produced a working module.  So this design may not work for you.  A redesign will be on the way in the future, I've learned a lot about design in doing this and it's not really the best.
+
 # ! Important Note !
 On initial powerup after installation, your eMate will *fully erase all internal storage* !  I don't know why, but on initial installation of the module your eMate will automatically perform a full hard reset including loss of all installed programs and data.  After this, your eMate will behave as normal (but you have to reinstall everything).  The erase and reset takes a few minutes.
 It's likely that removing the module after installation and reset will perform the same operation, erasing all storage to return to factory state.
