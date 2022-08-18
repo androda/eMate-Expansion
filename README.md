@@ -19,7 +19,7 @@ This error message seems to have a variety of causes which are not well understo
 # ! Important Notes !
 Remove all power sources from your eMate before installation.  Ideally, remove the power adapter and battery several hours before installing the module.  This gives time for any internal capacitors to drain.
 
-On initial powerup after installation, your eMate will *fully erase all internal storage* !  This is normal and expected.  This rease and reset takes a few minutes, so leave your eMate plugged in and undisturbed.  It'll start up once the process is complete.
+On initial powerup after installation, your eMate will *fully erase all internal storage* !  This is normal and expected.  This erase and reset takes a few minutes, so leave your eMate plugged in and undisturbed.  It'll start up once the process is complete.
 
 Removing the module in the future will cause the same behavior, a full reset.  *You must back up your data before installing or removing the module!*
 
